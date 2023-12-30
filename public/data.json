@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"name": "PiXMiX 君がいたから",
+		"price": 250.00,
+		"img": "pixmix_kimigaitakara.jpg",
+		"quanty": 1
+	},
+	{
+		"id": 2,
+		"name": "Task Have Fun Violet Tears",
+		"price": 350.00,
+		"img": "taskhavefun_violettears.jpg",
+		"quanty": 1		
+	},
+	{
+		"id": 3,
+		"name": "#2i2 だってさ",
+		"price": 250.00,
+		"img": "2i2_dattesa.jpg",
+		"quanty": 1	
+	},
+	{
+		"id": 4,
+		"name": "新しい学校のリーダーズ　Free Your Mind",
+		"price": 220.00,
+		"img": "atarashiigakkou_freeyourmind.jpg",
+		"quanty": 1	
+	}			
+]
